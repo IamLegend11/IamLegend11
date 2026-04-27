@@ -1,16 +1,20 @@
-## Hi there 👋
+# I'm Ahmed 👋
 
-<!--
-**IamLegend11/IamLegend11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- A **DevOps Engineer**
+- Currently improving my skills in:
+  - 🐧 **Linux** system administration and optimization
+  - 🔨 **Bash Scripting** for automation and infrastructure management
+  - 🐳 **Docker** containerization 
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,github,linux,bash,cpp,py&perline=3)](https://skillicons.dev)
+
+
+## 🔗 Connect with Me
+- [LinkedIn](www.linkedin.com/in/ahmed-ali-a25150304)
+- [E-Mail](ahmed.ali_elsayed@outlook.com)
+
