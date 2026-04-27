@@ -17,4 +17,4 @@
 #### Reach me via e-mail:ahmed.ali_elsayed@outlook.com
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/ahmed-ali-a25150304)
+- [LinkedIn](linkedin.com/in/ahmed-ali-a25150304)
