@@ -6,13 +6,14 @@
   - 🔨 **Bash Scripting** for automation and infrastructure management
   - 🐳 **Docker** containerization 
 
-## 🛠️ Technologies & Tools
-
-
 
 ## Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,github,linux,bash,cpp,py&perline=3)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🔗 Connect with Me
 - [LinkedIn](www.linkedin.com/in/ahmed-ali-a25150304)
