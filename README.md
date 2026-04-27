@@ -10,7 +10,7 @@
 ## Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=s,html,css,docker,github,linux,bash,cpp,py&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,docker,github,linux,bash,cpp,py&perline=3" />
   </a>
 </p>
 
