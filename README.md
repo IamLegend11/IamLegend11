@@ -2,7 +2,7 @@
 
 - A **DevOps Engineer**
 - Currently improving my skills in:
-  - 🐧 **Linux** system administration and optimization
+  - Trying to dive into Back-End stuff 
   - 🔨 **Bash Scripting** for automation and infrastructure management
   - 🐳 **Docker** containerization 
 
@@ -10,7 +10,7 @@
 ## Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,git,linux,bash,cpp,py&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,docker,git,linux,bash,cpp,py,express,mongodb,nodejs&perline=3" />
   </a>
 </p>
 
