@@ -1,20 +1,20 @@
 # I'm Ahmed 👋
 
-- A **DevOps Engineer**
-- Currently improving my skills in:
-  - Trying to dive into Back-End stuff 
-  - 🔨 **Bash Scripting** for automation and infrastructure management
-  - 🐳 **Docker** containerization 
-
+- 🚀 An aspiring **DevOps Engineer**
+- 🌱 Currently learning and improving my skills in:
+  - ☁️ **AWS** – Cloud Computing and Infrastructure Management
+  - 🔄 **CI/CD** – Automating build, test, and deployment pipelines
+  - 🏗️ **Terraform** – Infrastructure as Code (IaC)
 
 ## Technologies & Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,docker,git,linux,bash,cpp,py,express,mongodb,nodejs&perline=4" />
+    <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash,git,github,githubactions,python,cpp&perline=5" />
   </a>
 </p>
 
-
 ## 🔗 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/ahmed-ali-a25150304)
 - 📧 Email: ahmed.ali_elsayed@outlook.com
